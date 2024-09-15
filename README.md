@@ -11,9 +11,9 @@
 
 ---
 
-<h1 class="align-center">A Glimpse Into My Life</h1>
+<h1 align="center">A Glimpse Into My Life</h1>
 
-<div align="center">
+<div>
 
 * I'm 'Wale Ogundeji, a dynamic **Data Scientist**, **AI/ML Engineer**, **Software Engineer**, and **Medical Doctor**.
 * Passionate about revolutionising healthcare and transforming business operations with cutting-edge AI,  emphasizing data-driven insights and innovative software solutions, focusing on NLP, Computer Vision, and Medical AI.
