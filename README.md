@@ -5,20 +5,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&pause=1000&color=131A7F&background=131A7F&vCenter=true&width=450&lines=Welcome+to+my+profile!" alt="Typing SVG" style="animation: backgroundTransition 3s infinite;">
     </a>
   </h1>
-
-  <style>
-    @keyframes backgroundTransition {
-      0% { background-color: #D8FFF3; }
-      50% { background-color: #B4F0E5; }
-      100% { background-color: #D8FFF3; }
-    }
-
-    h1 {
-      font-family: 'Bebas Neue', sans-serif;
-      letter-spacing: 1px;
-      transition: background-color 1s ease-in-out;
-    }
-  </style>
 </div>
 
 <div align="center">
@@ -26,68 +12,26 @@
   </a>
 </div>
 
-<style>
-  h1 {
-    font-family: 'Bebas Neue', sans-serif;
-    letter-spacing: 2px;
-    color: #131A7F;
-    text-transform: uppercase;
-  }
-
-  h1.align-center {
-    text-align: center;
-  }
-
-  div.align-center {
-    text-align: center;
-    font-family: Arial, sans-serif;
-    color: #333;
-    font-size: 18px;
-    line-height: 1.6;
-    background: linear-gradient(90deg, rgba(216,255,243,1) 0%, rgba(180,240,229,1) 50%, rgba(216,255,243,1) 100%);
-    padding: 20px;
-    border-radius: 10px;
-  }
-
-  a {
-    text-decoration: none;
-    font-weight: bold;
-    color: #ffffff;
-    padding: 10px 20px;
-    background-color: #131A7F;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-  }
-
-  a:hover {
-    background-color: #0f1466;
-  }
-
-  hr {
-    border: 0;
-    height: 2px;
-    background-image: linear-gradient(to right, rgba(216,255,243,1), rgba(180,240,229,1), rgba(216,255,243,1));
-  }
-</style>
-
-<hr />
+---
 
 <h1 class="align-center">A Glimpse Into My Life</h1>
 
 <div class="align-center">
-  * I'm 'Wale Ogundeji, a dynamic <strong>Data Scientist</strong>, <strong>AI/ML Engineer</strong>, <strong>Software Engineer</strong>, and <strong>Medical Doctor</strong>.<br>
-  * Passionate about revolutionizing healthcare and transforming business operations with cutting-edge AI, I emphasize data-driven insights and innovative software solutions, focusing on NLP, Computer Vision, and Medical AI.<br>
+  * I'm 'Wale Ogundeji, a dynamic <strong>Data Scientist</strong>, <strong>AI/ML Engineer</strong>, <strong>Software Engineer</strong>, and <strong>Medical Doctor</strong>.
+
+  * Passionate about revolutionizing healthcare and transforming business operations with cutting-edge AI, I emphasize data-driven insights and innovative software solutions, focusing on NLP, Computer Vision, and Medical AI.
+
   * I'm open to roles, collaborations, and volunteering opportunities, including contributing to open-source projects.
 </div>
 
-<hr />
-
+---
 
 <h1 align="center" style="background-color: #131A7F; color: white; padding: 20px; border-radius: 10px;">
   <a href="https://wale-abiodun.com">Check me out</a>
 </h1>
 
-<hr />
+---
+
 
 ## ⚡ Languages and Frameworks
 <table>
