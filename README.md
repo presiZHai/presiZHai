@@ -1,8 +1,13 @@
 <!-- markdownlint-disable MD033 MD041 -->
+<div align="center" style="border: 2px solid #D8FFF3; padding: 20px; border-radius: 10px; background-color: #F0F8FF;">
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&letterSpacing=1px;&pause=1000&color=131A7F&background=D8FFF3&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&letterSpacing=1px;&pause=1000&color=131A7F&background=D8FFF3&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </h1>
+
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unlock&size=29&letterSpacing=.2rem&pause=500&color=207F36&background=FFFFFF&center=true&vCenter=true&width=450&lines=I'm+Wale+Ogundeji;Data+Scientist;AI%2FML+Engineer;Software+Engineer;and+Medical+Doctor" alt="Typing SVG" />
