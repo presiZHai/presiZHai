@@ -1,10 +1,8 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-  <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&pause=1000&color=131A7F&background=131A7F&vCenter=true&width=450&lines=Welcome+to+my+profile!" alt="Typing SVG" style="animation: backgroundTransition 3s infinite;">
     </a>
-  </h1>
 </div>
 
 <div align="center">
@@ -16,12 +14,14 @@
 
 <h1 class="align-center">A Glimpse Into My Life</h1>
 
-<div class="align-center">
-  * I'm 'Wale Ogundeji, a dynamic <strong>Data Scientist</strong>, <strong>AI/ML Engineer</strong>, <strong>Software Engineer</strong>, and <strong>Medical Doctor</strong>.
+<div align="center">  
+  <ul>
+    <li>I'm 'Wale Ogundeji, a dynamic <strong>Data Scientist</strong>, <strong>AI/ML Engineer</strong>, <strong>Software Engineer</strong>, and <strong>Medical Doctor</strong>.</li>
 
-  * Passionate about revolutionizing healthcare and transforming business operations with cutting-edge AI, I emphasize data-driven insights and innovative software solutions, focusing on NLP, Computer Vision, and Medical AI.
+    <li>Passionate about revolutionizing healthcare and transforming business operations with cutting-edge AI, I emphasize data-driven insights and innovative software solutions, focusing on NLP, Computer Vision, and Medical AI.</li>
 
-  * I'm open to roles, collaborations, and volunteering opportunities, including contributing to open-source projects.
+    <li>I'm open to roles, collaborations, and volunteering opportunities, including contributing to open-source projects.</li>
+  </ul>
 </div>
 
 ---
