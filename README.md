@@ -16,7 +16,7 @@
 
 ---
 
-<h1 align="center">A Glimpse Into My Life</h1>
+<h1 align="center">A Glimpse Into My Life and Interest</h1>
 
 <div>
 
