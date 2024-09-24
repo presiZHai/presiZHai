@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unlock&size=29&letterSpacing=.2rem&pause=500&color=207F36&background=FFFFFF&center=true&vCenter=true&width=450&lines=I'm+Wale+Ogundeji;Data+Scientist;AI%2FML+Engineer;Software+Engineer;and+Medical+Doctor" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=35&pause=1000&color=099614&background=FFFFFFFC&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I'm+'Wale+Ogundeji%2C+a+Data+Scientist%2C;AI%2FML+Engineer%2C+Software+Engineer%2C+and+Medical+Doctor." alt="Typing SVG" />
+</a>
 </div>
 
 ---
