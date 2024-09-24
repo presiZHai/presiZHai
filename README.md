@@ -2,9 +2,12 @@
 <div align="center" style="border: 2px solid #D8FFF3; padding: 20px; border-radius: 10px; background-color: #F0F8FF;">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&letterSpacing=1px;&pause=1000&color=131A7F&background=D8FFF3&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile!" alt="Typing SVG" />
-  </a>
+<a 
+  href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com? 
+  font=Edu+Australia+VIC+WA+NT+Hand+Dots&weight=100&size=50&pause=1000&color=333333&background=28F5FF&center=true&vCenter=true&width=600&height=200&lines=Welcome+to+my+profile!" alt="Typing SVG" 
+/>
+</a>
 </h1>
 
 </div>
